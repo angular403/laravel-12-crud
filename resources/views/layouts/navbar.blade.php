@@ -18,7 +18,7 @@
                         <a class="nav-link" href="/contact">Kontak</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/product">Product</a>
+                        <a class="nav-link" href="/produk">Produk</a>
                     </li>
                 </ul>
             </div>
